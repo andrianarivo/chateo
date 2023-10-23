@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="drawSQL-chateo-export-2023-10-23.png" width="512" />
+  <img src="drawSQL-chateo-export-2023-10-23.png" width="600" />
   <br/>
 
 <h3><b>Chateo</b></h3>
