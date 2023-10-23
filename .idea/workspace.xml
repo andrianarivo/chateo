@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="Add Readme File">
+    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="Update GH Action">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Rails.chateo">
     <configuration name="chateo" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="chateo" />
@@ -138,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698062072279</updated>
       <workItem from="1698062074061" duration="388000" />
-      <workItem from="1698062476844" duration="2514000" />
+      <workItem from="1698062476844" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="Add MIT LICENSE">
       <option name="closed" value="true" />
@@ -164,7 +168,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698064191458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Linters and GH Action">
+      <option name="closed" value="true" />
+      <created>1698065118778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698065118778</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1698065133332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698065133332</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update GH Action">
+      <option name="closed" value="true" />
+      <created>1698065207195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698065207195</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +213,9 @@
     <MESSAGE value="Add MIT LICENSE" />
     <MESSAGE value="Initialize rails app" />
     <MESSAGE value="Add Readme File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Readme File" />
+    <MESSAGE value="Add Linters and GH Action" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update GH Action" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update GH Action" />
   </component>
 </project>
