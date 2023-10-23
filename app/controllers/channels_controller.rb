@@ -5,6 +5,5 @@ class ChannelsController < ApplicationController
     @users = User.all_except(current_user)
   end
 
-  def show
-  end
+  def show; end
 end
