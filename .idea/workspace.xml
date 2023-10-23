@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="Update GH Action">
+    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="Fix Rubocop offenses">
+      <change beforePath="$PROJECT_DIR$/.idea/chateo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chateo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,6 +46,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -50,15 +62,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
     "git-widget-placeholder": "dev",
     "last_opened_file_path": "/home/david/Documents/novity/chateo",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -142,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698062072279</updated>
       <workItem from="1698062074061" duration="388000" />
-      <workItem from="1698062476844" duration="2848000" />
+      <workItem from="1698062476844" duration="3933000" />
     </task>
     <task id="LOCAL-00001" summary="Add MIT LICENSE">
       <option name="closed" value="true" />
@@ -192,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698065207195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update Gitignore">
+      <option name="closed" value="true" />
+      <created>1698065386063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698065386063</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix Rubocop offenses">
+      <option name="closed" value="true" />
+      <created>1698065400402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698065400402</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +248,8 @@
     <MESSAGE value="Add Linters and GH Action" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Update GH Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update GH Action" />
+    <MESSAGE value="Update Gitignore" />
+    <MESSAGE value="Fix Rubocop offenses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Rubocop offenses" />
   </component>
 </project>
