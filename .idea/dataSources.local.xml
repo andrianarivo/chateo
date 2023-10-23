@@ -29,5 +29,10 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="chateo: production" uuid="c730fdd1-b89c-49ab-ac55-31dfc25f9662">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>chateo</user-name>
+      <schema-mapping />
+    </data-source>
   </component>
 </project>
