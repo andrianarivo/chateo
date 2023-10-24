@@ -6,7 +6,12 @@
     <div id="users">
       <%= render @users %>
     </div>
-    <h4> Channels </h4>
+    <h4> Channels </h4
+    <%= render 'new_channel_form' %>
+    <%= turbo_stream_from "channels" %>
+    <div id="channels">
+      <%= render @channels %>
+    </div>
   </div>
   <div class="col-md-8 col-sm-8">
     <h1>Container</h1>

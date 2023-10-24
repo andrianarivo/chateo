@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="Fix Rubocop offenses">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0d8a32ba-d4a9-4c65-b7e6-c6de0f8f0b66.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0d8a32ba-d4a9-4c65-b7e6-c6de0f8f0b66.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7cdee636-e9cb-4fda-8a86-b9b3674c3eb8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7cdee636-e9cb-4fda-8a86-b9b3674c3eb8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+    <list default="true" id="4d3edf2a-5be5-4646-ad1a-d3db0abc915c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/controllers/channels_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/channels_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/channels/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/channels/index.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +170,7 @@
       <workItem from="1698062074061" duration="388000" />
       <workItem from="1698062476844" duration="4846000" />
       <workItem from="1698070510237" duration="84000" />
-      <workItem from="1698070880317" duration="684000" />
+      <workItem from="1698070880317" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="Add MIT LICENSE">
       <option name="closed" value="true" />
@@ -265,7 +260,55 @@
       <option name="project" value="LOCAL" />
       <updated>1698066722576</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Devise Mailer config for Development">
+      <option name="closed" value="true" />
+      <created>1698073659296</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073659296</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Channels Controller and Model">
+      <option name="closed" value="true" />
+      <created>1698073699432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073699432</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update Devise for extra Username Signup">
+      <option name="closed" value="true" />
+      <created>1698073739680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073739680</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update Devise for extra Username Signup">
+      <option name="closed" value="true" />
+      <created>1698073748350</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073748350</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Channels initial Implementation">
+      <option name="closed" value="true" />
+      <created>1698073794531</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073794532</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix Rubocop Offenses">
+      <option name="closed" value="true" />
+      <created>1698073824642</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698073824642</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +336,11 @@
     <MESSAGE value="Install Devise" />
     <MESSAGE value="Add Bootstrap 5" />
     <MESSAGE value="Fix Rubocop offenses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Rubocop offenses" />
+    <MESSAGE value="Devise Mailer config for Development" />
+    <MESSAGE value="Channels Controller and Model" />
+    <MESSAGE value="Update Devise for extra Username Signup" />
+    <MESSAGE value="Channels initial Implementation" />
+    <MESSAGE value="Fix Rubocop Offenses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Rubocop Offenses" />
   </component>
 </project>
